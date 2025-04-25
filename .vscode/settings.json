@@ -1,0 +1,4 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}/windows/flutter",
+    "C_Cpp.errorSquiggles": "Disabled"
+}
